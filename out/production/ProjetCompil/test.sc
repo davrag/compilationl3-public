@@ -1,0 +1,36 @@
+<Start>
+ <AProgramme>
+  <ALdvOptdecvar>
+   <ADvplusLdv>
+    <ADv>
+    </ADv>
+    <ADvplusLdv2>
+     <ADv>
+     </ADv>
+    </ADvplusLdv2>
+   </ADvplusLdv>
+  </ALdvOptdecvar>
+  <AExprSuivExpr>
+   <AExprSuivExpr1>
+    <AExprSuivExpr2>
+     <AExprPlusExpr3>
+      <AExprSuivExpr3>
+       <AExprSuivExpr4>
+        <AExprSuivExpr5>
+         <AExprNbExpr6>
+         </AExprNbExpr6>
+        </AExprSuivExpr5>
+       </AExprSuivExpr4>
+      </AExprSuivExpr3>
+      <AExprSuivExpr4>
+       <AExprSuivExpr5>
+        <AExprVarExpr6>
+        </AExprVarExpr6>
+       </AExprSuivExpr5>
+      </AExprSuivExpr4>
+     </AExprPlusExpr3>
+    </AExprSuivExpr2>
+   </AExprSuivExpr1>
+  </AExprSuivExpr>
+ </AProgramme>
+</Start>
